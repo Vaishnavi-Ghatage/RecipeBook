@@ -19,12 +19,12 @@
   }
 
   
-  .container{
+  /* .container{
     display: grid;
     grid-template-rows: 280px 280px;
     grid-template-columns:380px 380px 380px;
     gap: 9px;
-  }
+  } */
   .container h2{
     padding-left: 100px;
     font-size: 1.3rem;
